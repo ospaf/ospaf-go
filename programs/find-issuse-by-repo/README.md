@@ -6,7 +6,8 @@
 
 ```
 make
-./find-issues-by-repo > output
+./collect
+./analyse
 ``` 
 
 ##accounts.json
