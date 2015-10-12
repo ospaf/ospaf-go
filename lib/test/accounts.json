@@ -1,0 +1,17 @@
+[
+	{
+		"Type": "Basic",
+		"User": "golang001",
+		"Password": "qwe123456"
+	},
+	{
+		"Type": "Basic",
+		"User": "golang002",
+		"Password": "qwe123456"
+	},
+	{
+		"Type": "Basic",
+		"User": "golang003",
+		"Password": "qwe123456"
+	}
+]
